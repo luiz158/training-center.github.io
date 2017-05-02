@@ -41,16 +41,14 @@ disqus_shortname: dunders-website
 
 # Navigation menu
 links:
-  - title: Home
-    url: /
-  - title: About Me
-    url: /about
-  - title: Archive
-    url: /archive
-  - title: Contact
-    url: /contact
-  - title: Categories
-    url: /categories
+  - title: Slack
+    url: https://ctgroups.herokuapp.com
+  - title: GitHub
+    url: https://github.com/training-center/
+  - title: Twitter
+    url: https://twitter.com/trainingcentr
+  - title: Medium
+    url: https://medium.com/trainingcenter
 
 # Build settings
 
