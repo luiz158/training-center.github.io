@@ -1,7 +1,7 @@
 # Site settings
 
-title: Dunders | A Starter Theme for Jekyll # put your blog title
-description: Faster to start a new Jekyll theme # put your description for your amazing blog
+title: Training Center  # put your blog title
+description: Um projeto sem fins lucrativos com a premissa de ajudar desenvolvedores iniciantes ou não que tem dúvidas ou precisam de dicas para alavancar sua carreira ou só querem fazer bons amigos para criarem um projeto juntos. # put your description for your amazing blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site e.g. https://woliveiras.com.br
 language: "" # language to set into html tag, default is en
