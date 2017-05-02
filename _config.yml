@@ -32,12 +32,8 @@ var_page_indicator_separator: of
 
 # User settings
 
-author: dunders # put your name or a name of principal author of site/blog
-email: dunders@dunders.com
-twitter_username: dunders
-github_username:  dunders
-gplus_username:  dunders
-disqus_shortname: dunders-website
+twitter_username: trainingcentr
+github_username:  training-center
 
 # Navigation menu
 links:
